@@ -7,8 +7,8 @@
 ## General
 
 * [giphy.com](http://giphy.com)
+* [gifme.io](gifme.io)
 * [9gag.com/gif](http://9gag.com/gif)
-* [http://gifme.io/search](gifme.io)
 
 ## Reactions
 
