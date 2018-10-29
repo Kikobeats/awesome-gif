@@ -9,6 +9,7 @@
 * [giphy.com](http://giphy.com)
 * [gifme.io](http://gifme.io)
 * [9gag.com/gif](http://9gag.com/gif)
+* [reddit.com/r/gifs](https://www.reddit.com/r/gifs/)
 
 ## Reactions
 
